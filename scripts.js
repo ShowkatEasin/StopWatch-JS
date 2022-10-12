@@ -12,7 +12,7 @@ function start(){
         if(m==0){
             m=10;
             h--;
-            if(h==0){
+            if(h==24){
                 h=0;
                 m=0;
                 s=0;
